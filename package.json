@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "Mohalkar Architects website",
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "nodemailer": "^6.9.14",
     "xlsx": "^0.18.5"
   }
